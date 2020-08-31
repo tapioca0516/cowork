@@ -11,5 +11,9 @@ public class C {
 		
 
 	}
+	
+	public void test1() {
+		//팀장이 추가!
+	}
 
 }
